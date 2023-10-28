@@ -1,2 +1,2 @@
 # wordpress
-React-Laravel-Project
+wordpress
